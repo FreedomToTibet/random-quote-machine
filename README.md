@@ -1,1 +1,1 @@
-# random-quote-machine
+React project "Random quote machine"
